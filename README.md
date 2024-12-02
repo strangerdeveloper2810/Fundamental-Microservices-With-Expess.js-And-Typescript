@@ -189,17 +189,17 @@ git clone https://github.com/strangerdeveloper2810/Fundamental-Microservices-Wit
 2. Navigate to the project directory:
 
 ```bash
-    cd Lession2-OOP
+cd Lession2-OOP
 ```
 
 3. Install the dependencies:
 
 ```bash
-    npm install
+npm install
 ```
 
 4. Compile the TypeScript code(install ts-node and typescript global):
 
 ```bash
-    npm run dev
+npm run dev
 ```
